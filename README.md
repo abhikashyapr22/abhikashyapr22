@@ -7,9 +7,7 @@
 
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=abhikashyapr22)   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=abhikashyapr22)
 <!--
 **abhikashyapr22/abhikashyapr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
