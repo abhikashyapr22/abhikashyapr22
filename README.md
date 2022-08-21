@@ -1,4 +1,4 @@
-### Hello Vistor! Thankyou for visiting me 🙏
+### Hello Vistor! Thankyou for visiting me :pray:
 
 📫 contact me at: kashyapabhishek22@gmail.com
 
