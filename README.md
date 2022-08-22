@@ -1,5 +1,12 @@
 ### Hello Vistor! Thankyou for visiting me :pray:
 
+    Programming Language: Python (preferred), C/C++ (basics), SQL
+    Web Development (basics): HTML, CSS, JS
+    Programming Tools and Environment: Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench
+    Databases: MySQL, MongoDB
+    Data Visualization Tools: Tableau, Power BI
+    Interests: Machine Learning and Data Science
+
 📫 contact me at: kashyapabhishek22@gmail.com
 
 
