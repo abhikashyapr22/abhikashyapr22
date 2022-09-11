@@ -2,6 +2,7 @@
 
     Programming Language: Python (preferred), C/C++ (basics), SQL
     Web Development (basics): HTML, CSS, JS
+    Web Frameworks: Flask, Django (learning)
     Programming Tools and Environment: Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench
     Databases: MySQL, MongoDB
     Data Visualization Tools: Tableau, Power BI
