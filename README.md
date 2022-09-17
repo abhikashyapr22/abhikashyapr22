@@ -6,6 +6,7 @@
     Programming Tools and Environment: Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench
     Databases: MySQL, MongoDB
     Data Visualization Tools: Tableau, Power BI
+    web Scrapping: BeautifulSoup, Selenium
     Interests: Machine Learning and Data Science
 
 📫 contact me at: kashyapabhishek22@gmail.com
