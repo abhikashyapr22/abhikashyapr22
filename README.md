@@ -1,7 +1,12 @@
 ## Hello Vistor! Thankyou for visiting me :pray:
 
-   **Programming Language:** Python (preferred), C/C++ (basics), SQL <br>
-    **Web Development (basics):** HTML, CSS, JS <br>
+**Programming Language:** 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp; (Basics)
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp; (Basics) <br>
+
+   **Web Development (basics):** HTML, CSS, JS <br>
     **Web Frameworks:** Flask, Django (learning) <br>
     **Programming Tools and Environment:** Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
     **Databases:** MySQL, MongoDB <br>
@@ -9,7 +14,7 @@
     **web Scrapping:** BeautifulSoup, Selenium <br>
     **Interests:** Machine Learning and Data Science
     
-  ### 🛠 &nbsp;Tech Stack
+<!--   ### 🛠 &nbsp;Tech Stack
 
 **Programming Language:**
 
@@ -58,7 +63,7 @@
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![OperatingSystems](https://img.shields.io/badge/-Operating_Systems-05122A?style=flat&logo=operating_systems)&nbsp;
 ![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-05122A?style=flat&logo=oop)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; -->
     
    👯 I’m looking to collaborate on Python Development, Machine Learning Project.
    
