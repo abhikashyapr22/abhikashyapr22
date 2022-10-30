@@ -1,13 +1,13 @@
 ## Hello Vistor! Thankyou for visiting me :pray:
 
-    Programming Language: Python (preferred), C/C++ (basics), SQL
-    Web Development (basics): HTML, CSS, JS
-    Web Frameworks: Flask, Django (learning)
-    Programming Tools and Environment: Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench
-    Databases: MySQL, MongoDB
-    Data Visualization Tools: Tableau, Power BI
-    web Scrapping: BeautifulSoup, Selenium
-    Interests: Machine Learning and Data Science
+    **Programming Language:** Python (preferred), C/C++ (basics), SQL
+    **Web Development (basics):** HTML, CSS, JS
+    **Web Frameworks:** Flask, Django (learning)
+    **Programming Tools and Environment:** Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench
+    **Databases:** MySQL, MongoDB
+    **Data Visualization Tools:** Tableau, Power BI
+    **web Scrapping:** BeautifulSoup, Selenium
+    **Interests:** Machine Learning and Data Science
     
    👯 I’m looking to collaborate on Python Development, Machine Learning Project.
    
