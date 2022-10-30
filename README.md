@@ -1,4 +1,4 @@
-### Hello Vistor! Thankyou for visiting me :pray:
+## Hello Vistor! Thankyou for visiting me :pray:
 
     Programming Language: Python (preferred), C/C++ (basics), SQL
     Web Development (basics): HTML, CSS, JS
@@ -8,6 +8,9 @@
     Data Visualization Tools: Tableau, Power BI
     web Scrapping: BeautifulSoup, Selenium
     Interests: Machine Learning and Data Science
+    
+   👯 I’m looking to collaborate on Python Development, Machine Learning Project.
+   
 
 📫 contact me at: kashyapabhishek22@gmail.com
 
