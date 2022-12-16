@@ -65,7 +65,7 @@
 ![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-05122A?style=flat&logo=oop)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; -->
     
-   👯 I’m looking to collaborate on Python Development, Machine Learning Project.
+ I’m looking to collaborate on Python Development, Machine Learning Project.
    
 
 📫 contact me at: kashyapabhishek22@gmail.com
