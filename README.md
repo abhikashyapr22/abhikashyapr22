@@ -32,7 +32,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=PowerBI)&nbsp; <br>
 
 **web Scrapping:** <br> <br>
-BeautifulSoup, 
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-05122A?style=flat&logo=BeautifulSoup)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; <br>
 
 **Interests:** <br> <br>
