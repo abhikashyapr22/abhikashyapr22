@@ -1,18 +1,23 @@
 ## Hello Vistor! Thankyou for visiting me :pray:
 
-**Programming Language:** <br>
+**Programming Language:** <br> <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp; (Basics)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp; (Basics) <br>
 
-   **Web Development (basics):** HTML, CSS, JS <br>
-    **Web Frameworks:** Flask, Django (learning) <br>
-    **Programming Tools and Environment:** Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
-    **Databases:** MySQL, MongoDB <br>
-    **Data Visualization Tools:** Tableau, Power BI <br>
-    **web Scrapping:** BeautifulSoup, Selenium <br>
-    **Interests:** Machine Learning and Data Science
+ **Web Development (basics):** <br> <br>
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; <br> <br>
+   
+  **Web Frameworks:** <br> <br>
+  Flask, Django (learning) <br>
+  **Programming Tools and Environment:** Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
+  **Databases:** MySQL, MongoDB <br>
+  **Data Visualization Tools:** Tableau, Power BI <br>
+  **web Scrapping:** BeautifulSoup, Selenium <br>
+  **Interests:** Machine Learning and Data Science
     
 <!--   ### 🛠 &nbsp;Tech Stack
 
