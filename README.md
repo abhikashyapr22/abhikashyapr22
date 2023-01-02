@@ -1,4 +1,4 @@
-## Hi! Abhishek Kumar here
+## Hi, Abhishek Kumar here
 Driven Data Science Intern with hands-on experience of end-to-end
 ML projects. Ready to combine tireless hunger for new skills with
 desire to exploit cutting-edge data science technology. Skilled in
@@ -33,29 +33,10 @@ python programming
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; <br>
 
 **Interests:** <br> <br>
-Machine Learning and Data Science
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=MachineLearning)&nbsp;
+![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=Data Science)&nbsp;
     
 ## Contact
  I’m looking to collaborate on Python Development, Machine Learning Project.
 
 📫 contact me at: kashyapabhishek22@gmail.com
-
-
-
-
-
-<!--
-# ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=abhikashyapr22)
-**abhikashyapr22/abhikashyapr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
