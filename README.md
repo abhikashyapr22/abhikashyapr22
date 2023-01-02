@@ -1,5 +1,6 @@
-## Hello Vistor! Thankyou for visiting me :pray:
+## Hi! Abhishek Kumar here 
 
+## Tech-Stacks
 **Programming Language:** <br> <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp; (Basics)
