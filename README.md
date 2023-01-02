@@ -2,7 +2,6 @@
 
 **Programming Language:** <br> <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp; (Basics)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp; (Basics) <br>
 
@@ -15,20 +14,25 @@
   Flask, Django (learning) <br>
   
   **Programming Tools and Environment:** <br> <br>
-  Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
+  Pycharm (preferred), 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
+  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)&nbsp;
+  , Colaboratory, MySQL Workbench <br>
   
   **Version Control**: <br> <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   
   **Databases:** <br> <br> 
-  MySQL, MongoDB <br>
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+  MongoDB <br>
   
   **Data Visualization Tools:**  <br> <br>
   Tableau, Power BI <br>
   
   **web Scrapping:** <br> <br>
-  BeautifulSoup, Selenium <br>
+  BeautifulSoup, 
+  ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; <br>
   
   **Interests:** <br> <br>
   Machine Learning and Data Science
