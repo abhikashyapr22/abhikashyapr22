@@ -1,6 +1,6 @@
 ## Hello Vistor! Thankyou for visiting me :pray:
 
-**Programming Language:** 
+**Programming Language:** <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp; (Basics)
