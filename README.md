@@ -12,7 +12,7 @@
    
   **Web Frameworks:** <br> <br>
   ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
-  ![Django](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Django)&nbsp; (learning) <br>
+  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp; (learning) <br>
   
   **Programming Tools and Environment:** <br> <br>
   Pycharm (preferred), 
