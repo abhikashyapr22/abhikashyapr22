@@ -13,11 +13,25 @@
    
   **Web Frameworks:** <br> <br>
   Flask, Django (learning) <br>
-  **Programming Tools and Environment:** Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
-  **Databases:** MySQL, MongoDB <br>
-  **Data Visualization Tools:** Tableau, Power BI <br>
-  **web Scrapping:** BeautifulSoup, Selenium <br>
-  **Interests:** Machine Learning and Data Science
+  
+  **Programming Tools and Environment:** <br> <br>
+  Pycharm (preferred), Visual Studio, Jupyter Notebook, Colaboratory, MySQL Workbench <br>
+  
+  **Version Control**: <br> <br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  
+  **Databases:** <br> <br> 
+  MySQL, MongoDB <br>
+  
+  **Data Visualization Tools:**  <br> <br>
+  Tableau, Power BI <br>
+  
+  **web Scrapping:** <br> <br>
+  BeautifulSoup, Selenium <br>
+  
+  **Interests:** <br> <br>
+  Machine Learning and Data Science
     
 <!--   ### 🛠 &nbsp;Tech Stack
 
