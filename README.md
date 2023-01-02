@@ -34,7 +34,7 @@ python programming
 
 **Interests:** <br> <br>
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=MachineLearning)&nbsp;
-![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=Data Science)&nbsp;
+![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=DataScience)&nbsp;
     
 ## Contact
  I’m looking to collaborate on Python Development, Machine Learning Project.
