@@ -40,3 +40,6 @@ python programming
  I’m looking to collaborate on Python Development, Machine Learning Project.
 
 📫 contact me at: kashyapabhishek22@gmail.com
+
+## TO Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
