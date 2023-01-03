@@ -6,7 +6,7 @@ data visualization, machine learning, statistics, problem solving, and
 python programming
 
 ## 🛠 &nbsp;Tech Stack
-**Programming Language:** <br> <br>
+**Programming Languages:** <br> <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;<br>
