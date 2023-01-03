@@ -29,6 +29,8 @@ python programming
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=PowerBI)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
+![Power Point](https://img.shields.io/badge/-Power%20Point-05122A?style=flat&logo=PowerPoint)&nbsp;
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-05122A?style=flat&logo=BeautifulSoup)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp; <br>
 
