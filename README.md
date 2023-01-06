@@ -2,8 +2,8 @@
 Driven Data Science Intern with hands-on experience of end-to-end
 ML projects. Ready to combine tireless hunger for new skills with
 desire to exploit cutting-edge data science technology. Skilled in
-data visualization, machine learning, statistics, problem solving, and
-python programming
+data visualization, machine learning, applied statistics, mysql, and
+python programming.
 
 ## 🛠 &nbsp;Tech Stack
 **Programming Languages:** <br> <br>
